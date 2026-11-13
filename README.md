@@ -15,7 +15,7 @@ Faço iniciação científica aplicando o NSGA-II (Python) à otimização de di
 
 ## Tecnologias
 
-Python · SQL · Java · C · JavaScript · HTML/CSS · PHP · Git
+Python · SQL · Java · C · C++ · JavaScript · HTML/CSS · PHP · Git
 
 ## Contato
 
